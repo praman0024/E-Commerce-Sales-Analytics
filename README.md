@@ -50,11 +50,28 @@ The project includes charts for:
 2. Sales by Year
 3. Profit by Sub-Category
 
-## 🚀 How to Run
-
-## 🚀 How to Run
+## 🚀 How to run
 
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/praman0024/E-Commerce-Sales-Analytics.git
+```
+
+### 2. Go to the project folder
+
+```bash
+cd E-Commerce-Sales-Analytics
+```
+
+### 3. Install required libraries
+
+```bash
+pip install pandas numpy matplotlib
+```
+
+### 4. Run the analysis
+
+```bash
+python3 python/data_analysis.py
+```
