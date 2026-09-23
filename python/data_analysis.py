@@ -61,7 +61,7 @@ plt.tight_layout()
 plt.show()
 
 #profit by sub-category
-subcategory_analysis["Profit"].short_values().plot(kind="bar")
+subcategory_analysis["Profit"].sort_values().plot(kind="bar")
 
 plt.title("Profit by Sub-Category")
 plt.xlabel("Sub-Category")
