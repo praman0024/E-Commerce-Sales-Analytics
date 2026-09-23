@@ -52,9 +52,9 @@ The project includes charts for:
 
 ## 🚀 How to Run
 
+## 🚀 How to Run
+
 ### 1. Clone the repository
 
-```bash## 👨‍💻 Author
-
-Praman Patel
+```bash
 git clone https://github.com/praman0024/E-Commerce-Sales-Analytics.git
